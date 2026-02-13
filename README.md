@@ -2,11 +2,11 @@
 
 各位好，我是yzdnn，目前主要的活动是增补一系列日文像素字体。  
 一开始，这一系列活动只是为了做汉化而顺带进行的，不过被朋友推了一把之后，我意识到了国内像素字体市场的稀缺，就开始往这方面转移活动重心了。  
-就是这么个简单故事_(:3 」∠ )_
+就是这么个简单故事\_(:3 」∠ )_
 
 Hey guys, yzdnn here. I'm currently working on adding Chinese characters to a series of Japanese pixel fonts.
 At first, I just edited these fonts for translating games to Chinese, but after being motivated by a friend, I realized the number of existing Chinese pixel fonts is quite small, so I gradually started to work on it.  
-That's the short story._(:3 」∠ )_
+That's the short story. \_(:3 」∠ )_
 
 # 个人自补点阵/像素字体 Pixel Fonts I Modified
 
