@@ -10,7 +10,7 @@ That's the short story. \_(:3 」∠ )_
 
 # 个人自补点阵/像素字体 Pixel Fonts I Modified
 
-Last update: 2026/02/13
+Last update: 2026/03/09
 
 请点击各字体预览图片**下方的链接**，进入相应字体的GitHub页面或字体网站页面。  
 要下载字体，请进入相应字体的GitHub页面后，点击右下角"Releases"里置顶的最新版本，在新打开的页面里点击Assets里的.ttf文件，即可开始下载。  
@@ -43,6 +43,11 @@ RenOuFangSong 16
 ![袖珍像素体 / XiuZhenXiangSuTi](./images/XiuZhenXiangSuTi_night.png#gh-dark-mode-only)  
 XiuZhenXiangSuTi  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/yzdnn/XiuZhenXiangSuTi) [![猫啃网 / maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square)](https://www.maoken.com/freefonts/27532.html)  
+<br>
+![正格点黑 16 / ZhengGeDianHei 16](./images/ZhengGeDianHei-16_day.png#gh-light-mode-only)
+![正格点黑 16 / ZhengGeDianHei 16](./images/ZhengGeDianHei-16_night.png#gh-dark-mode-only)  
+ZhengGeDianHei 16  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/yzdnn/ZhengGeDianHei-16)
 <br>
 更多字体正在制作中，敬请期待……  
 More fonts are WIP — please stay tuned!
