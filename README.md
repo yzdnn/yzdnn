@@ -52,7 +52,7 @@ ZhengGeDianHei 16
 ![秋叶圆体 16 / QiuYeYuanTi 16](./images/QiuYeYuanTi-16_day.png#gh-light-mode-only)
 ![秋叶圆体 16 / QiuYeYuanTi 16](./images/QiuYeYuanTi-16_night.png#gh-dark-mode-only)  
 QiuYeYuanTi 16  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/yzdnn/ZhengGeDianHei-16) [![猫啃网 / maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square)](https://www.maoken.com/freefonts/27645.html)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/yzdnn/QiuYeYuanTi-16) 
 <br>
 更多字体正在制作中，敬请期待……  
 More fonts are WIP — please stay tuned!
